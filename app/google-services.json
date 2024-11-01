@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924711682017",
+    "project_id": "bhojansaajha",
+    "storage_bucket": "bhojansaajha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924711682017:android:d82610b7840baab6ec9ca0",
+        "android_client_info": {
+          "package_name": "com.paurush.bhojan_saajha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeSDlfIRoGCrlVWvpLJb0jNPRLMKFVYrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
